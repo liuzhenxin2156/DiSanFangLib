@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AllApp/DiSanFang/DiSanFangLib/app/src/main/res/drawable/bg_adjust_seek_bar.xml" value="0.17135416666666667" />
+        <entry key="..\:/AllApp/DiSanFang/DiSanFangLib/app/src/main/res/drawable/progess_icon.xml" value="0.17135416666666667" />
+        <entry key="..\:/AllApp/DiSanFang/DiSanFangLib/app/src/main/res/drawable/shape_gradient.xml" value="0.30277777777777776" />
+        <entry key="..\:/AllApp/DiSanFang/DiSanFangLib/app/src/main/res/drawable/shape_thumb.xml" value="0.17135416666666667" />
         <entry key="..\:/AllApp/DiSanFang/DiSanFangLib/app/src/main/res/layout/activity_main.xml" value="0.26268115942028986" />
         <entry key="..\:/LzxDemo/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
         <entry key="..\:/LzxDemo/app/src/main/res/layout/test.xml" value="0.28940217391304346" />
